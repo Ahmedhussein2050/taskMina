@@ -1,0 +1,69 @@
+@font-face {
+	font-family: 'Frutiger';
+	src: url('FrutigerLTArabic.ttf');
+	font-weight: normal;
+}
+@font-face {
+  font-family: 'neobold';
+  src: url('NeoSans-bold.ttf');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'neonormal';
+  src: url('NeoSans-regular.ttf');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  font-style: normal;
+  font-weight: 400;
+  src: url(DroidKufi-Regular.eot);
+  src: url(DroidKufi-Regular.eot?#iefix) format('embedded-opentype'),
+       url(DroidKufi-Regular.woff2) format('woff2'),
+       url(DroidKufi-Regular.woff) format('woff'),
+       url(DroidKufi-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  font-style: normal;
+  font-weight: 700;
+  src: url(DroidKufi-Bold.eot);
+  src: url(DroidKufi-Bold.eot?#iefix) format('embedded-opentype'),
+       url(DroidKufi-Bold.woff2) format('woff2'),
+       url(DroidKufi-Bold.woff) format('woff'),
+       url(DroidKufi-Bold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Droid Arabic Naskh';
+  font-style: normal;
+  font-weight: 400;
+  src: url(DroidNaskh-Regular.eot);
+  src: url(DroidNaskh-Regular.eot?#iefix) format('embedded-opentype'),
+       url(DroidNaskh-Regular.woff2) format('woff2'),
+       url(DroidNaskh-Regular.woff) format('woff'),
+       url(DroidNaskh-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Droid Arabic Naskh';
+  font-style: normal;
+  font-weight: 700;
+  src: url(DroidNaskh-Bold.eot);
+  src: url(DroidNaskh-Bold.eot?#iefix) format('embedded-opentype'),
+       url(DroidNaskh-Bold.woff2) format('woff2'),
+       url(DroidNaskh-Bold.woff) format('woff'),
+       url(DroidNaskh-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "cocon";
+    src: url("cocon.eot");
+    src: url("cocon.eot?#iefix") format("embedded-opentype"),
+    url("cocon.woff2") format("woff2"),
+    url("cocon.woff") format("woff"),
+    url("cocon.ttf") format("truetype")
+}
